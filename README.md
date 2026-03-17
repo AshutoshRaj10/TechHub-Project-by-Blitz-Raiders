@@ -89,7 +89,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request, we'll appreciate it.
+Contributions are welcome! Please feel free to submit a Pull Request, we'll appreciate it ❤️.
 
 ---
 
