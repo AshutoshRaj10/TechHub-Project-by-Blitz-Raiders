@@ -1,0 +1,12 @@
+FastAPI
+uvicorn[standard]
+openai
+sqlalchemy
+pandas
+python-dotenv
+pydantic
+python-multipart
+pymysql
+passlib[bcrypt]
+python-jose[cryptography]
+cryptography
