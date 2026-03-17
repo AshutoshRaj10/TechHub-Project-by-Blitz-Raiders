@@ -9,6 +9,11 @@
 
 ---
 
+## ✒️ Drive Link for ppt and explaination video.
+
+- ⛓️‍💥 https://drive.google.com/drive/folders/1j_olDdKIUFrMvRV-50f-m-cKXszr-zKM?usp=drive_link
+---
+
 ## ✨ Key Features
 
 - 🔍 **Natural Language to SQL**: Query your databases without writing a single line of SQL.
