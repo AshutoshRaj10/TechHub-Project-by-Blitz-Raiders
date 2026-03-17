@@ -94,3 +94,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 Developed with ❤️ by **Team Blitz Raiders**
+---
+Contributors: Hari Prasath SS , Parinith M , Nirmal , Ashutosh Raj , Gaurav Kumar
