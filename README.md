@@ -68,7 +68,7 @@ docker-compose up --build
 ### Frontend
 1. Navigate to `frontend/`
 2. Install dependencies: `npm install`
-3. Run the dev server: `npm run dev`
+3. Run the dev server: `npm run dev` 
 
 ---
 
@@ -89,7 +89,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request, we'll appreciate it.
 
 ---
 
